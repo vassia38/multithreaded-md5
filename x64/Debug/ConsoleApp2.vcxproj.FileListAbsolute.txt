@@ -1,0 +1,3 @@
+D:\Projects\T2\ConsoleApp2\x64\Debug\ConsoleApp2.exe
+D:\Projects\T2\ConsoleApp2\x64\Debug\ConsoleApp2.vcxproj.CopyComplete
+D:\Projects\T2\ConsoleApp2\x64\Debug\libcrypto-1_1-x64.dll

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Projects\T2\ConsoleApp2\main.cpp(137,16): warning C4101: 'filesize': unreferenced local variable
+  ConsoleApp2.vcxproj -> D:\Projects\T2\ConsoleApp2\x64\Debug\ConsoleApp2.exe
